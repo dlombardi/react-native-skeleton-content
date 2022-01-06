@@ -80,6 +80,6 @@
     "typescript": "4.4.4"
   },
   "dependencies": {
-    "react-native-redash": "^16.0.11",
+    "react-native-redash": "^16.0.11"
   }
 }
